@@ -1,2 +1,17 @@
 /* GENERAL */
+[class*="column-"] {
+    color: white;
+    background-color:#DBB1B2;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
 
+.nested {
+    background-color:#F3DAA1;
+}
+
+.blank-section {
+    width: 100%;
+    height: 20px;
+}
