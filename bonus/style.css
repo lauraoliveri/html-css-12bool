@@ -1,0 +1,37 @@
+
+/* Google fonts */
+
+html {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/**/
+
+header {
+    width: 100%;
+}
+
+
+header div {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.margin-c{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.black {
+    background-color: black;
+}
+
+[class*="column-"] {
+    height: 70px;
+}
